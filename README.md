@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8b107599-e96b-4471-b2d1-dce9f8046a77)# Vendor_Insights & Profitable Analysis
+# Vendor_Insights & Profitable Analysis
 Create an end to end data analytics project
 
 Business Problem:
